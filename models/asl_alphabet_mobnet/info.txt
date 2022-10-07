@@ -1,0 +1,1 @@
+This is my custom mobilenet model based on the tensorflow ssd_mobilenet_v2_fpn_keras(RELU_6) with a slightly changed pipeline
